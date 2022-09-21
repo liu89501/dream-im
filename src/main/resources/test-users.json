@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "userId": "af0e7c6dc7aa4a9689b98a992210ec19",
+      "nickName": "嘿嘿嘿一号",
+      "secretKey": "7131f2657267406fae8e116ef339981cc74902ace76c4d11b4f1deb02ffcfba3"
+    },
+    {
+      "userId": "afed87b9708c46dbbed7af1d68ef9528",
+      "nickName": "嘿嘿嘿二号",
+      "secretKey": "4910ec8f22f04bfeac3ff615c9a403cf034f759225dd4e598c9ebab6282ac6c0"
+    },
+    {
+      "userId": "25e887b9708c46dbbed7af1d68ef9528",
+      "nickName": "嘿嘿嘿三号",
+      "secretKey": "43cb26b9c3a14718b52c447f7b88ec781f8e173d56aa4982a56d600b5de6c7de"
+    }
+  ]
+}
